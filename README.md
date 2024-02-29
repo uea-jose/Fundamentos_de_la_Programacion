@@ -1,1 +1,1 @@
-Saluds Ingenerio por favor el deber es el archibo bucle anidado
+Saluds Ingenerio por favor el deber La tarea Semana 12 esta en bucleAnidado.py
