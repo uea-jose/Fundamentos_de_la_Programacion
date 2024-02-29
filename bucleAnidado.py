@@ -118,7 +118,7 @@ temperaturas = [
         ]
     ]
 ]
-
+#
 # Calcular el promedio de temperaturas para cada ciudad y semana
 i=0
 j=0
