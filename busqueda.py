@@ -8,7 +8,7 @@ matriz = [
 
 # Valor a buscar
 elemento_a_buscar = 9
-var_bolanea=False
+var_bolanea=False # Elemento apra saltar la condicion boolaneao
 # Función para buscar un valor en la matriz
 
 for fila in range(len(matriz)):
