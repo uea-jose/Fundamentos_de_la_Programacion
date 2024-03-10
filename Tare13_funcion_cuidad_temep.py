@@ -7,7 +7,8 @@
 #Definir funcion de parametros de entrada ciudad, temperatura
 def calcular_promedio_ciudad(ciudad, temperaturas):
     print(f"\nPromedio de temperaturas de la ciudad: {ciudad}")
-    for i in range(1, len(temperaturas) + 1):
+    for i in range(1, len(temperaturas) + 1): #se defina la funcio comensando en 1 para que imrpima Seman1 y asi
+        #Aqui se resta i-1 para que escoja la poiscion desde [0] ya que aqui si interara la inidiece cero para que vaya incrementando
         semana = temperaturas[i - 1]
         promedio_semana = sum(dia['temp'] for dia in semana) / 7
         print(f" Temperatura Promedio de Semana {i}  : {promedio_semana:.2f}°C")
@@ -150,7 +151,7 @@ while True:
         print("Ha seleccionado la Opción 3.")
         calcular_promedio_ciudad("Piñas", temperaturas[opcion-1])
     elif opcion == 0:
-        print("Muchas Gracias por usar el Sistema ...")
+        print("Muchas Gracias por usar el Sistema adios...")
         break
     else:
         print("OPor favor, seleccione una opción correta.")
