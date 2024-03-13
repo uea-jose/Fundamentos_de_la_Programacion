@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6df5799-116e-4180-8e1c-5f268568eb66" name="Changes" comment="Version 5">
+    <list default="true" id="a6df5799-116e-4180-8e1c-5f268568eb66" name="Changes" comment="Version 7">
+      <change afterPath="$PROJECT_DIR$/Tarea_semana14_Funcion_descuento.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tare13_funcion_cuidad_temep.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tare13_funcion_cuidad_temep.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +44,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Tare13_funcion_cuidad_temep.executor": "Run",
+    "Python.Tarea_semana14_Funcion_descuento.executor": "Run",
     "Python.bucleAnidado.executor": "Run",
     "Python.busqueda.executor": "Run",
     "Python.funcioConvsersion.executor": "Run",
@@ -85,7 +86,8 @@
       <workItem from="1709185013445" duration="5248000" />
       <workItem from="1709260413113" duration="614000" />
       <workItem from="1710001300714" duration="999000" />
-      <workItem from="1710099175589" duration="2255000" />
+      <workItem from="1710099175589" duration="4303000" />
+      <workItem from="1710306464065" duration="648000" />
     </task>
     <task id="LOCAL-00001" summary="Version 1">
       <option name="closed" value="true" />
@@ -135,7 +137,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710101384570</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Version 5">
+      <option name="closed" value="true" />
+      <created>1710102078510</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710102078510</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Version 7">
+      <option name="closed" value="true" />
+      <created>1710102850639</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710102850639</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,7 +176,8 @@
     <MESSAGE value="Version 3" />
     <MESSAGE value="Version 4" />
     <MESSAGE value="Version 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Version 5" />
+    <MESSAGE value="Version 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -175,7 +194,7 @@
     <SUITE FILE_PATH="coverage/Funadamentos_Programacion$funcioConvsersion.coverage" NAME="funcioConvsersion Coverage Results" MODIFIED="1710099398820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Funadamentos_Programacion$busqueda.coverage" NAME="busqueda Coverage Results" MODIFIED="1708855324023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Funadamentos_Programacion$ordenar.coverage" NAME="ordenar Coverage Results" MODIFIED="1708856347836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Funadamentos_Programacion$Tare13_funcion_cuidad_temep.coverage" NAME="Tare13_funcion_cuidad_temep Coverage Results" MODIFIED="1710101791823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Funadamentos_Programacion$Tare13_funcion_cuidad_temep.coverage" NAME="Tare13_funcion_cuidad_temep Coverage Results" MODIFIED="1710102036405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Funadamentos_Programacion$bucleAnidado.coverage" NAME="bucleAnidado Coverage Results" MODIFIED="1709191458458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
