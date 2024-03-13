@@ -5,7 +5,7 @@ def calcular_descuento(total, porcentaje_descuento):
     descuento = total * (porcentaje_descuento / 100)
     return descuento # retorna el Descuento
 
-#ingreso del usario del total compra
+#ingreso del usario del total compra.
 total_compra = float(input("Ingrese el total de la compra: "))
 porcentaje_descuento = float(input("Ingrese  ejemplo de porcentaje de descuento: 10 (10% ): "))
 
