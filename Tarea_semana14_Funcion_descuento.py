@@ -13,7 +13,7 @@ porcentaje_descuento = float(input("Ingrese  ejemplo de porcentaje de descuento:
 descuento = calcular_descuento(total_compra, porcentaje_descuento)
 
 # Llamda a función para el calulo de la compra menots el descuento
-# formula para calcular el total desl descuento
+# formula para calcular el total desl descuento.
 compra_menos_descuento= total_compra - descuento
 
 # resultados
