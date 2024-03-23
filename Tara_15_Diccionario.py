@@ -31,7 +31,7 @@ if "sexo" in informacion_personal:
 #5 Imprimir el diccionario final
 print("Estes es el Diccionario Completo:")
 print(informacion_personal)
-
+#5 Imprimir el clave eliminadad
 if "sexo" in informacion_personal:
     print("La clave 'sexo' aún existe en el diccionario.")
 else:
