@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6df5799-116e-4180-8e1c-5f268568eb66" name="Changes" comment="Version 7">
-      <change afterPath="$PROJECT_DIR$/Tarea_semana14_Funcion_descuento.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a6df5799-116e-4180-8e1c-5f268568eb66" name="Changes" comment="Version 7" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +49,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Administrador/Downloads/2323-FUNDAMENTOS-DE-PROGRAMACION--UEA-profes",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -88,6 +86,7 @@
       <workItem from="1710001300714" duration="999000" />
       <workItem from="1710099175589" duration="4303000" />
       <workItem from="1710306464065" duration="648000" />
+      <workItem from="1711146437816" duration="1233000" />
     </task>
     <task id="LOCAL-00001" summary="Version 1">
       <option name="closed" value="true" />
