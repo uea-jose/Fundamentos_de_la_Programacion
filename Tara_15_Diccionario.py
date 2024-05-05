@@ -36,3 +36,6 @@ if "sexo" in informacion_personal:
     print("La clave 'sexo' aún existe en el diccionario.")
 else:
     print("\nLa clave 'sexo' ha sido eliminada del diccionario.")
+    arr== [[[10, 20], [30, 40]],
+           [[50, 60], [70, 80]]
+           ]
