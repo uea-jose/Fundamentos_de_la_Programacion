@@ -10,7 +10,7 @@ for temp in temperaturas:
 total_temperaturas = len(temperaturas)
 frecuencia_relativa = {temp: freq / total_temperaturas for temp, freq in frecuencia_absoluta.items()}
 
-# Calcular frecuencia acumulada y relativa acumulada
+# Calcular frecuencia acumulada y relativa acumulada.
 frecuencia_acumulada = {}
 frecuencia_relativa_acumulada = {}
 acumulado_absoluto = 0
